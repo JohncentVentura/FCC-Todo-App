@@ -1,7 +1,8 @@
-# Todo-App
-A Simple TODO application that uses local storage of the web browser. This allows web apps to save data during one session, then retrieve it in a later page session.
+# freeCodeCamp - JavaScript Algorithms and Data Structures Certification
+## Side Project: Todo App
 
-# Lessons Learned
-* Learned how to handle form inputs, and manage local storage.
-* Perform CRUD (Create, Read, Update, Delete) operations on tasks.
-* Implement event listeners and toggle UI elements.
+Local storage is a web browser feature that lets web applications store key-value pairs persistently within a user's browser. This allows web apps to save data during one session, then retrieve it in a later page session.
+
+In this TODO application, you'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
+
+### Verify this certification at: In progress...
